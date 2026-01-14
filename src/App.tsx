@@ -1790,7 +1790,7 @@ function App() {
               rel='noopener noreferrer'
               elevation={2}
               sx={{
-                display: 'flex',
+                display: 'none',
                 alignItems: 'center',
                 p: 1,
                 borderRadius: 10,
